@@ -11,4 +11,4 @@ This script has all the event code generation
 - src/lib/dataset/event_generic_dataset.py
 This code handles all the data augmentation, and I changed it to be able to work for streams
 - run_training.sh
-Runs the training code# EventCenterTrack
+Runs the training code
